@@ -12,11 +12,10 @@ HTML.  Each product card needed to be it's own div, contain specific product det
 <br>
 
 ### How To Use
-```
 1. Install `http-server` from `http://www.npmjs.com/package/htt-server`
 2. In Terminal, navigate to the project folder and type: `http-server -p 8080`
 3. In your browser, navigate to `http://localhost:8080`
-```
+
 <br>
 
 ### Screenshot
