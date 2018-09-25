@@ -2,7 +2,7 @@
 
 ### About this project
 <p>This project was intended to get us into the practice of building basic cards in
-HTML.  Each product card needed to be it's own div, contain specific product details, and be styled a certain way using CSS. </p>.
+HTML.  Each product card needed to be it's own div, contain specific product details, and be styled a certain way using CSS. </p>
 
 <br>
 
